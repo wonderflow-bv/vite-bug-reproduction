@@ -1,0 +1,12 @@
+{
+  "name": "vite-bug-reproduction",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "workspaces": [
+    "apps/app",
+    "apps/app-ds",
+    "libs/asset"
+  ]
+}

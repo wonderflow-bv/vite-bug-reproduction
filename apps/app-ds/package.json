@@ -1,0 +1,22 @@
+{
+  "name": "vite-bug-reproduction-app-ds",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@wonderflow/icons": "^5.2.0",
+    "@wonderflow/react-components": "^5.4.0",
+    "@wonderflow/themes": "^5.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "@wonderflow/config": "^5.1.2",
+    "vite": "^2.8.0"
+  }
+}

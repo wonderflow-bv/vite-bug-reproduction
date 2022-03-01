@@ -1,0 +1,9 @@
+{
+  "name": "vite-bug-reproduction-asset",
+  "version": "1.0.0",
+  "exports": {
+    "./logo": "./dist/logo.svg",
+    "./sprite": "./dist/sprite.svg"
+  },
+  "license": "MIT"
+}
